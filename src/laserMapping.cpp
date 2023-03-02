@@ -62,6 +62,7 @@
 
 #define INIT_TIME           (0.1)
 #define LASER_POINT_COV     (0.001)
+
 #define MAXN                (720000)
 #define PUBFRAME_PERIOD     (20)
 
